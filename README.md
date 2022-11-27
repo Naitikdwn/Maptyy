@@ -13,4 +13,11 @@ Learned the concept of oops in javascript and Learned more about css.
 HTML ,CSS and JAVASCRIPT
 
 ##
+Screenshots
 
+Before Any workouts
+![login](https://raw.githubusercontent.com/Naitikdwn/Maptyy/master/Screen%20shots/1.png)
+
+##
+After workouts
+![login](https://raw.githubusercontent.com/Naitikdwn/Maptyy/master/Screen%20shots/2.png)
