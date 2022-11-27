@@ -8,12 +8,12 @@ to the map .It will help you in saving your workouts for the future preference.
 
 Learned the concept of oops in javascript and Learned more about css.
 
-## Tech Stack
+## Tech Stack😗
 
 HTML ,CSS and JAVASCRIPT
 
 ##
-Screenshots
+
 
 Before Any workouts
 ![login](https://raw.githubusercontent.com/Naitikdwn/Maptyy/master/Screen%20shots/1.png)
