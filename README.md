@@ -18,6 +18,11 @@ Screenshots
 Before Any workouts
 ![login](https://raw.githubusercontent.com/Naitikdwn/Maptyy/master/Screen%20shots/1.png)
 
+
+##
+Form and map
+![login](https://raw.githubusercontent.com/Naitikdwn/Maptyy/master/Screen%20shots/3.png)
+
 ##
 After workouts
 ![login](https://raw.githubusercontent.com/Naitikdwn/Maptyy/master/Screen%20shots/2.png)
