@@ -2,7 +2,7 @@
 # Mapty
 
 It is a web based application that will help you in mapping your workouts
-to the map .It wil help you in saving your workouts for the future preference.
+to the map .It will help you in saving your workouts for the future preference.
 
 ## Lessons Learned
 
